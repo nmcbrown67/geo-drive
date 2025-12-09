@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/geodrive/static/css/main.cccfa6b4.css",
-    "main.js": "/geodrive/static/js/main.6041cde1.js",
-    "static/js/453.036d8fad.chunk.js": "/geodrive/static/js/453.036d8fad.chunk.js",
-    "index.html": "/geodrive/index.html",
-    "main.cccfa6b4.css.map": "/geodrive/static/css/main.cccfa6b4.css.map",
-    "main.6041cde1.js.map": "/geodrive/static/js/main.6041cde1.js.map",
-    "453.036d8fad.chunk.js.map": "/geodrive/static/js/453.036d8fad.chunk.js.map"
+    "main.css": "/geo-drive/static/css/main.cccfa6b4.css",
+    "main.js": "/geo-drive/static/js/main.d8bbc2ba.js",
+    "static/js/453.036d8fad.chunk.js": "/geo-drive/static/js/453.036d8fad.chunk.js",
+    "index.html": "/geo-drive/index.html",
+    "main.cccfa6b4.css.map": "/geo-drive/static/css/main.cccfa6b4.css.map",
+    "main.d8bbc2ba.js.map": "/geo-drive/static/js/main.d8bbc2ba.js.map",
+    "453.036d8fad.chunk.js.map": "/geo-drive/static/js/453.036d8fad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cccfa6b4.css",
-    "static/js/main.6041cde1.js"
+    "static/js/main.d8bbc2ba.js"
   ]
 }
